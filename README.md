@@ -44,8 +44,3 @@ I am a diligent web developer with a keen interest in the field of technology. S
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-Thanks for stopping by! 😁
