@@ -40,10 +40,9 @@ I am a diligent web developer with a keen interest in the field of technology. S
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### Interesting stats
-
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=sarthakbh321&show_icons=true)
+###
 
 Thanks for stopping by! 😁
 
