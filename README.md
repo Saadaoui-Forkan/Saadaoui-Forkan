@@ -1,6 +1,5 @@
 <h1 align="left">Hey 👋 Welcome to my github!</h1>
-###
-<h2 align="left">My name is Saadaoui-Forkan</h2>
+<h2 align="left">My name is Forkan</h2>
 
 ###
 
