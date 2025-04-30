@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Mahmoud and I'm from Tunisia</h2>
+<h2 align="left">Hi 👋! My name is Mahmoud and I'm FullStack Developer from Tunisia</h2>
+<p align="left">I'm a web developer specializing in React, Next, Node, TypeScript, and JavaScript. I love building websites with good UI/UX design, and I'm also passionate about new technologies.</p>
 
 ###
 
@@ -22,8 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js logo" />
@@ -32,14 +31,23 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.youtube.com/@mahmoud_saadaoui" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/saadaoui-mahmoud" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://personal-portfolio-six-pearl-25.vercel.app/en" target="_blank">
+  <img src="https://www.tonsite.com/mon-image.png" alt="Mon site web" height="100" />
+</a>
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Saadaoui-Forkan/Saadaoui-Forkan/output/snake.svg" alt="Snake animation" />
+<a href="https://github.com/Saadaoui-Forkan">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadaouimahmoud&show_icons=true&theme=radical" alt="Mahmoud's GitHub stats" />
+</a>
 
 ###
