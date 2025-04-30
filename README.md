@@ -38,16 +38,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://personal-portfolio-six-pearl-25.vercel.app/en" target="_blank">
-  <img src="https://www.tonsite.com/mon-image.png" alt="Mon site web" height="100" />
+  <img src="https://i.pinimg.com/736x/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.jpg" alt="Mon site web" height="100" />
 </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<a href="https://github.com/Saadaoui-Forkan">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadaouimahmoud&show_icons=true&theme=radical" alt="Mahmoud's GitHub stats" />
-</a>
-
-###
