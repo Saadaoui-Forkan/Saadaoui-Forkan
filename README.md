@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mahmoud and I'm FullStack Developer from Tunisia</h2>
+<h2 align="left">Hi 👋! My name is Mahmoud and I'm FullStack Developer</h2>
 <p align="left">I'm a web developer specializing in React, Next, Node, TypeScript, and JavaScript. I love building websites with good UI/UX design, and I'm also passionate about new technologies.</p>
 
 ###
