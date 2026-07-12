@@ -4,8 +4,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Saadaoui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Saadaoui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- كارت الإحصائيات العام (تم إصلاح الرابط المكسور) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Saadaoui&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="160" alt="stats graph" />
+  
+  <!-- المخطط الدائري/المتعامد للنسب والنشاط الذي تبحث عنه -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Saadaoui&layout=donut&theme=dracula" height="160" alt="languages graph" />
 </div>
 
 ###
@@ -34,9 +37,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://personal-portfolio-six-pearl-25.vercel.app/en" target="_blank">
-  <img src="https://i.pinimg.com/736x/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.jpg" alt="Mon site web" height="35" width="35" />
-</a>
+    <img src="https://i.pinimg.com/736x/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.jpg" alt="Mon site web" height="35" width="35" />
+  </a>
 </div>
 
 ###
-
